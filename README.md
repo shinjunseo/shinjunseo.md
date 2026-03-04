@@ -1,2 +1,0 @@
-# shinjunseo.md
-## hi
